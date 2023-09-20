@@ -1,4 +1,12 @@
-# Lab-1
+# Lab 2
+Lab 2 - Logan Vance - lvance3@uncc.edu
+
+The ChatGPT code for the project was pretty close, but wasn't able to meet the specifications without a fair amount of fine tuning after the initial prompt. I found it interesting that the Chat code used a single array for the amino acid - one letter code information and split the item into name and code before using them in the quiz. Chat used strings for the amino acid components and longs for the time elements. Chat also used a boolean it named 'quizRunning' to use with a while statement to loop the quiz.
+
+I asked chat to allow for user input on time, but it interpreted this as displaying time elapsed to answer the question then asking if the user would like to continue after each question. If the user entered 'yes' the program would continue and display total time of the quiz thusfar.
+
+I was able to get Chat to more or less function like the code I wrote, but it took several itterations and starting from a new prompt at one point.
+
 Lab 1 - Logan Vance - lvance3@uncc.edu
 
 Answers:
