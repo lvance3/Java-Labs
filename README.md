@@ -1,8 +1,9 @@
 # Lab 3
 Lab 3 - Logan Vance - lvance3@uncc.edu
+
 Fasta Pasrer
 
-=======================================================================================================================================================================
+==================================================================================================
 
 Lab 2
 Lab 2 - Logan Vance - lvance3@uncc.edu
@@ -13,7 +14,7 @@ I asked chat to allow for user input on time, but it interpreted this as display
 
 I was able to get Chat to more or less function like the code I wrote, but it took several itterations and starting from a new prompt at one point.
 
-=======================================================================================================================================================================
+==================================================================================================
 
 Lab 1 - Logan Vance - lvance3@uncc.edu
 
