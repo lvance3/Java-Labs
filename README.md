@@ -1,4 +1,10 @@
-# Lab 3
+# Lab 4
+Lab 4 - Logan Vance - lvance3@uncc.edu
+
+Amino Acid Quiz GUI
+
+==================================================================================================
+
 Lab 3 - Logan Vance - lvance3@uncc.edu
 
 Fasta Pasrer
