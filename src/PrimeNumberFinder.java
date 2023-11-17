@@ -108,7 +108,7 @@ public class PrimeNumberFinder
                     long elapsedTime = System.currentTimeMillis() - startTime;
 
                     outputArea.append("Total prime numbers found: " + totalPrimeCount + "\n");
-                    outputArea.append("Total time elapsed: " + elapsedTime / 1000.0 + " seconds\n");
+                    outputArea.append("Total time elapsed: " + elapsedTime / 1000f + " seconds\n");
                 } 
                 catch (InterruptedException | ExecutionException e) 
                 {
