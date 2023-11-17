@@ -1,4 +1,8 @@
-# Lab 4
+# Lab 5
+
+The multi threading speedup seemed to cap at about 5x at 16 threads.
+
+==================================================================================================
 Lab 4 - Logan Vance - lvance3@uncc.edu
 
 Amino Acid Quiz GUI
