@@ -1,5 +1,7 @@
 # Lab 5
 
+"Prime number finder" or "a gui with a slow process in the background"
+
 The multi threading speedup seemed to cap at about 5x at 16 threads.
 
 ==================================================================================================
